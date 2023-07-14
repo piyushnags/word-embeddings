@@ -1,0 +1,9 @@
+gensim
+matplotlib
+numpy
+scipy
+scikit-learn
+nltk
+pandas
+tqdm
+prettyprint
