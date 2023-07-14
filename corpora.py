@@ -1,7 +1,6 @@
 # NLP Imports
 import gensim
 from gensim.test.utils import datapath
-from gensim.models import Word2Vec
 
 
 
